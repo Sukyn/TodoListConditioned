@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "name":"cut my hair",
+    "deadline":"06 05",
+    "requirements":[]
+  },
+  {
+    "id":2,
+    "name":"shave",
+    "deadline":"06 07",
+    "requirements":[1]
+  },
+  {
+    "id":3,
+    "name":"eat",
+    "deadline":"06 10",
+    "requirements":[1,2]
+  }
+]
